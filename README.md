@@ -1,4 +1,4 @@
-<h1 align="center"> Hadoop and Spark </h1> 
+<h1 align="center">Spark and Hadoop</h1> 
 
 <br>
 <p align="center">
